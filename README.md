@@ -3,5 +3,5 @@
 
 Bibliography:
 
-1 - Channel of FreeCodeCamp
+1 - Channel of FreeCodeCamp:
 https://www.youtube.com/watch?v=2ZLl8GAk1X4
