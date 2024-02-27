@@ -3,4 +3,4 @@
 
 Bibliography:
 
-1 - https://www.youtube.com/watch?v=2ZLl8GAk1X4
+1 Channel of FreeCodeCamp - https://www.youtube.com/watch?v=2ZLl8GAk1X4
